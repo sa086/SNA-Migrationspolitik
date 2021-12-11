@@ -1,8 +1,11 @@
 ### **Node-List Länder:**
 
 **id:**
-= Ländernamen
-Eu-Länder; Türkei
+= Ländernamen und NGO's
+Eu-Länder; Türkei; Vereinigtes Königreich
+
+**type**
+= definiert ob Staat oder NGO, 1= Staat, 2= NGO
 
 **einwohner:**
 = Anzahl Einwohner/innen (Angabe in Millionen)
@@ -29,12 +32,6 @@ Eu-Länder; Türkei
 1 - wenig 
 2 - mittel
 3 - viel
-
-### Node-List NGO´s:
-
-**id:**
-= Name der NGO
-→ nur NGO´s die zuständig sind im zentralen Mittelmeer
 
 **start:**
 = Gründung
