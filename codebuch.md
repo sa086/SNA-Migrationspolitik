@@ -1,4 +1,4 @@
-### **Node-List Länder:**
+### **Nodelist:**
 
 **id:**
 = Ländernamen und NGO's
@@ -63,7 +63,7 @@ vom Crewmitglied bis Management (gerundeter Mittelwert)
 8 = im Einsatz/befindet sich auf einer Mission
 9 = verschenkt/an Besitzer zurückgegeben
 
-### Edge-List:
+### Edgelist:
 
 **relationship:**
 = Art der Unterstützung (gerichtet)
